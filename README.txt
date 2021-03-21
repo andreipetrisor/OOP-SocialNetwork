@@ -1,3 +1,4 @@
+Enunt: http://elf.cs.pub.ro/poo/arhiva/teme/2015/tema1
 Clasa User contine informatii despre fiecare utilizator, avand campurile:
  - Prieteni - o structura de date de tip ArrayList care retine toti prietenii 
 utilizatorului
